@@ -1,0 +1,20 @@
+{
+    "Work": [
+        {
+            "task": "Code practice",
+            "done": false
+        }
+    ],
+    "Home": [
+        {
+            "task": "Find PG",
+            "done": false
+        }
+    ],
+    "Fitness": [
+        {
+            "task": "Walk 5k Steps",
+            "done": false
+        }
+    ]
+}
