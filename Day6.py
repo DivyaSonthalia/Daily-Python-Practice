@@ -1,7 +1,7 @@
 # Student Grade Book System
 import os
 
-RECORDS = "day6_grades.txt"
+RECORDS = "Day6_grades.txt"
 
 # Function to display menu options
 def show_menu():
