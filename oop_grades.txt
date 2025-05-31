@@ -1,1 +1,1 @@
-Divya,10,English,98
+divya,10,Maths,92
